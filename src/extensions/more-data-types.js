@@ -5,7 +5,7 @@ const nullVariable = null
 console.log(nullVariable)
 
 // 2. Set this variable to be true
-const trueVariable = 2 === 2
+const trueVariable = 2 < 3
 console.log(trueVariable)
 // 2. Set this variable to be the opposite of the trueVariable (ie. false);
 const falseVariable = 2 === 3
